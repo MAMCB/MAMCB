@@ -5,7 +5,7 @@ I'm Miguel Borges, a Fullstack Developer with experience building MERN or PERN s
 
 
 - 🔭 I’m currently working on a Game Dev Manager application. 
-- 🌱 I’m currently learning Typescript and Next.js.
+- 🌱 I’m currently learning Laravel and .NET
 - 👯 I’m looking to collaborate on exciting startup projects.
 - 💬 Ask me about the latest book I read. 
 - 📫 How to reach me: migamcb@gmail.com
